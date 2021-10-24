@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "nlwheatapp",
-    "slug": "nlwheatapp",
+    "name": "nlwapp",
+    "slug": "nlwapp",
     "version": "1.0.0",
-    "scheme": "nlwheatapp",
+    "scheme": "nlwapp",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
